@@ -1,0 +1,51 @@
+.search {
+    border: none;
+    border-radius: 4px;
+    border-bottom: 2px solid #ccc;
+    outline: none;
+    background-color: #f2f2f2;
+    padding: 8px;
+    margin: 8px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+    color: black;
+}
+
+.searchForm {
+    width: 90%;
+    height: 40%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.searchForm input {
+    border-radius: 60px;
+    padding: 0 40px;
+    width: 90%;
+    height: 100px;
+    font-size: 40px;
+}
+
+.searchForm button {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: none;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+}
+
+.MuiSvgIcon-root {
+    fill: black;
+}

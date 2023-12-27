@@ -1,0 +1,25 @@
+.pageContainer {
+    width: 100vw;
+    height: 100vh;
+}
+
+.container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.customerForm {
+
+}
+
+.customerContainer {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+
+}
